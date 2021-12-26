@@ -1,0 +1,287 @@
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\bin\Debug\Market Form.exe.config
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\bin\Debug\Market Form.exe
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\bin\Debug\Market Form.pdb
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market Form.csproj.AssemblyReference.cache
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form41.resources
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form42.resources
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form43.resources
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form44.resources
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Properties.Resources.resources
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market Form.csproj.GenerateResource.cache
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market Form.csproj.CoreCompileInputs.cache
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market Form.exe
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market Form.pdb
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form45.resources
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form46.resources
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form47.resources
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form48.resources
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form49.resources
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form50.resources
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form51.resources
+C:\Users\nevire\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form52.resources
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\bin\Debug\Market Form.exe.config
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\bin\Debug\Market Form.exe
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\bin\Debug\Market Form.pdb
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market Form.csproj.AssemblyReference.cache
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form41.resources
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form42.resources
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form43.resources
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form44.resources
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form45.resources
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form46.resources
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form47.resources
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form48.resources
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form49.resources
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form50.resources
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form51.resources
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Form52.resources
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market_Form.Properties.Resources.resources
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market Form.csproj.GenerateResource.cache
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market Form.csproj.CoreCompileInputs.cache
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market Form.exe
+C:\Users\mertu\Desktop\Market Proje\Market Form\Market Form\obj\Debug\Market Form.pdb
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\bin\Debug\Market Form.exe.config
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\bin\Debug\Market Form.exe
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\bin\Debug\Market Form.pdb
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.csproj.AssemblyReference.cache
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form41.resources
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form42.resources
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form43.resources
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form44.resources
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form45.resources
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form46.resources
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form47.resources
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form48.resources
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form49.resources
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form50.resources
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form51.resources
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form52.resources
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Properties.Resources.resources
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.csproj.GenerateResource.cache
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.csproj.CoreCompileInputs.cache
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.exe
+C:\Users\mertu\Desktop\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.pdb
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\bin\Debug\Market Form.exe.config
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\bin\Debug\Market Form.exe
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\bin\Debug\Market Form.pdb
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.csproj.AssemblyReference.cache
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form41.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form42.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form43.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form44.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form45.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form46.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form47.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form48.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form49.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form50.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form51.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form52.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Properties.Resources.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.csproj.GenerateResource.cache
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.csproj.CoreCompileInputs.cache
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.exe
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.pdb
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form1.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form2.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form3.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form4.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form5.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form10.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form11.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form6.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form7.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form8.resources
+C:\Users\mertu\Desktop\FORMLAR SON\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form9.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\bin\Debug\Market Form.exe.config
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\bin\Debug\Market Form.exe
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\bin\Debug\Market Form.pdb
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.csproj.AssemblyReference.cache
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form1.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form10.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form11.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form2.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form3.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form4.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form41.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form42.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form43.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form44.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form45.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form46.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form47.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form48.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form49.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form5.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form50.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form51.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form52.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form6.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form7.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form8.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form9.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Properties.Resources.resources
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.csproj.GenerateResource.cache
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.csproj.CoreCompileInputs.cache
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.exe
+C:\Users\mertu\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.pdb
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\bin\Debug\Market Form.exe.config
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\bin\Debug\Market Form.exe
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\bin\Debug\Market Form.pdb
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Anamenu.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Giderler.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_PersonelKayitEkrani.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_KullaniciGirisi.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Kayitolma.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Yoneticigiris.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Onecikanlar.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Temelgida.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Atistirmalik.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Sebze.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_KisiselBakim.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Bebekbakim.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Teknoloji.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Sepet.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Yoneticidetay.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_KrediKarti.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Nakit.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Cek.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Fm_Stogaurunalim.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Genelfinanstakip.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Form8.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Dısteslimatlar.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Properties.Resources.resources
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.csproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.exe
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market Form.pdb
+C:\Users\Excalibur\Desktop\FORMLAR  SON - Kopya\Market Proje - Kopya\Market Form\Market Form\obj\Debug\Market_Form.Frm_Icecekler.resources
+C:\Users\Excalibur\Desktop\2\Market Form\bin\Debug\Market Form.exe.config
+C:\Users\Excalibur\Desktop\2\Market Form\bin\Debug\Market Form.exe
+C:\Users\Excalibur\Desktop\2\Market Form\bin\Debug\Market Form.pdb
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market Form.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Anamenu.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Giderler.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_PersonelKayitEkrani.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_KullaniciGirisi.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Kayitolma.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Yoneticigiris.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Onecikanlar.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Icecekler.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Temelgida.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Atistirmalik.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Sebze.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_KisiselBakim.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Bebekbakim.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Teknoloji.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Sepet.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Yoneticidetay.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_KrediKarti.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Nakit.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Cek.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Fm_Stogaurunalim.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Genelfinanstakip.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Form8.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Frm_Dısteslimatlar.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market_Form.Properties.Resources.resources
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market Form.csproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market Form.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market Form.exe
+C:\Users\Excalibur\Desktop\2\Market Form\obj\Debug\Market Form.pdb
+C:\Users\mertu\Desktop\3\Market Form\bin\Debug\Market Form.exe.config
+C:\Users\mertu\Desktop\3\Market Form\bin\Debug\Market Form.exe
+C:\Users\mertu\Desktop\3\Market Form\bin\Debug\Market Form.pdb
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Anamenu.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Giderler.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_PersonelKayitEkrani.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_KullaniciGirisi.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Kayitolma.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Yoneticigiris.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Onecikanlar.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Icecekler.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Temelgida.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Atistirmalik.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Sebze.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_KisiselBakim.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Bebekbakim.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Teknoloji.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Sepet.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Yoneticidetay.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_KrediKarti.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Nakit.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Cek.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Fm_Stogaurunalim.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Genelfinanstakip.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Form8.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Frm_Dısteslimatlar.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market_Form.Properties.Resources.resources
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market Form.csproj.GenerateResource.cache
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market Form.csproj.CoreCompileInputs.cache
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market Form.exe
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market Form.pdb
+C:\Users\mertu\Desktop\3\Market Form\obj\Debug\Market Form.csproj.AssemblyReference.cache
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\bin\Debug\Market Form.exe.config
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\bin\Debug\Market Form.exe
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\bin\Debug\Market Form.pdb
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market Form.csproj.AssemblyReference.cache
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Anamenu.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Giderler.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_PersonelKayitEkrani.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_KullaniciGirisi.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Kayitolma.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Yoneticigiris.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Onecikanlar.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Icecekler.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Temelgida.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Atistirmalik.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Sebze.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_KisiselBakim.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Bebekbakim.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Teknoloji.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Sepet.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Yoneticidetay.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_KrediKarti.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Nakit.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Cek.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Fm_Stogaurunalim.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Genelfinanstakip.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Form8.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Frm_Dısteslimatlar.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market_Form.Properties.Resources.resources
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market Form.csproj.GenerateResource.cache
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market Form.csproj.CoreCompileInputs.cache
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market Form.exe
+C:\Users\mertu\Desktop\proje en en son\3\Market Form\obj\Debug\Market Form.pdb
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\bin\Debug\Market Form.exe.config
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\bin\Debug\Market Form.exe
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\bin\Debug\Market Form.pdb
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market Form.csproj.AssemblyReference.cache
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Anamenu.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Giderler.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_PersonelKayitEkrani.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_KullaniciGirisi.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Kayitolma.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Yoneticigiris.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Onecikanlar.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Icecekler.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Temelgida.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Atistirmalik.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Sebze.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Bebekbakim.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Teknoloji.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Sepet.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Yoneticidetay.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_KrediKarti.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Nakit.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Cek.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Fm_Stogaurunalim.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Form8.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Frm_Dısteslimatlar.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.Properties.Resources.resources
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market Form.csproj.GenerateResource.cache
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market Form.csproj.CoreCompileInputs.cache
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market Form.exe
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market Form.pdb
+C:\Users\mertu\Desktop\proje en en son - Kopya\3\Market Form\obj\Debug\Market_Form.btnAtistirmalik.resources
